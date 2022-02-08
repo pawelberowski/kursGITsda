@@ -1,4 +1,1 @@
-Ala ma kota.
-
-dodanie eksperymentalnej funkcjonalnosci
-
+Zmiana w pliku. 
